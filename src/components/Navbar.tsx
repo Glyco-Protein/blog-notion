@@ -43,7 +43,7 @@ const Navbar: React.FC<any> = () => {
 
           <span className="hidden md:block self-center whitespace-nowrap text-xl font-semibold dark:text-white">
             {/* eslint-disable-next-line react/no-unescaped-entities */}
-            gooney's blog
+            Glyco_Protein
           </span>
         </NavbarUI.Brand>
         <div className='w-1/2 md:2-full flex-grow md:flex-grow-0 flex items-center'>
